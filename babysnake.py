@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Shebang_(Unix)
 
 import os  # This line lets us use the "print" function provided to us by Python
 
-# This is a function.  I block of code that can be REUSED
+# This is a function.  A block of code that can be REUSED
 def new_function():
     print("  Running new_function()")
     print("  Doing lots of stuff....")
