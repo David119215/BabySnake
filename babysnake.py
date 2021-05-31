@@ -24,6 +24,8 @@ def new_function():
     print("  Doing lots of stuff....")
     print("  \"Returning\" from new_function()")
     print("\\")
+    print("  BABYSNAKE!!!!!")
+
 
 # main() is a special function that is always run first
 def main():
