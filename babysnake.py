@@ -39,6 +39,13 @@ def main():
     print(" Finished running new_function()")
     print(" \"Returning\" from main()")
 
+    x = 2
+    y = f(x)
+    print(" f(x) where x == 2 returned ", y)
+
+def f(var):
+    return var*var
+
 # This is code that will "call" main()
 if __name__ == "__main__":
     print("About to \"call\" main()")  # Notice the slash before the quotation mark.  WHY??????
